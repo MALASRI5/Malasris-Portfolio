@@ -3,8 +3,6 @@ import './skills.css';
 import Html from './image/html.jpeg';
 import Css from './image/css.png';
 import Javascript from './image/javascript.png';
-import Python from './image/python.png';
-import Cc from './image/c.jpg';
 import Javaa from './image/java.png';
 import ReactJs from './image/react.png';
 import Bootstrap from './image/bootstrap.png';
@@ -15,7 +13,7 @@ import Git from './image/git.png';
 
 const skillImages = [
   Html, Css, Bootstrap, Javascript, ReactJs, NodeJs, MongoDB, MySQL,
-  Python, Cc, Javaa, Git
+  Javaa, Git
 ];
 
 const Skills = () => {
