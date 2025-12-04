@@ -23,7 +23,7 @@ function App() {
                 Enthusiastic about creating dynamic, user-friendly webpages, I actively seek to enhance my coding skills.
                 I am a self-motivated and meticulous person who loves to learn and grow in the tech industry.
               </p>
-              <a href='https://www.linkedin.com/in/malasri-s2004/'
+              <a href='www.linkedin.com/in/malasri-s'
                 target="_blank"
                 rel="noopener noreferrer">
                 <button className='btn about'>Hire Me</button>
