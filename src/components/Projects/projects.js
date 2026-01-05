@@ -19,7 +19,7 @@ const Projects = () => {
                     <h3>Blog Website</h3>
                     <img src={BlogWebsite} alt='Blog Website' className='Pro-img' />
                     <p>Technologies: EJS , HTML , CSS , Node.js, MongoDB</p>
-                    <a href='https://malasri32.github.io/blogWebsite/' target='_blank' rel='noopener noreferrer'>
+                    <a href='https://github.com/MALASRI5/blogWebsite' target='_blank' rel='noopener noreferrer'>
                         <button className='btn'>Explore</button>
                     </a>
                 </div>
@@ -37,7 +37,7 @@ const Projects = () => {
                     <h3>BlinkBazaar - E-Commerce</h3>
                     <img src={BlinkBazaar} alt='BlinkBazaar' className='Pro-img' />
                     <p>Technologies: HTML, CSS, JavaScript</p>
-                    <a href='https://malasri32.github.io/blinkbazaar/' target='_blank' rel='noopener noreferrer'>
+                    <a href='https://github.com/MALASRI5/blinkbazaar_Ecommerce' target='_blank' rel='noopener noreferrer'>
                         <button className='btn'>Explore</button>
                     </a>
                 </div>
